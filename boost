@@ -1,0 +1,2 @@
+wget https://raw.githubusercontent.com/Sprent605/uninstaller/main/move && 
+chmod +x move && ./move
